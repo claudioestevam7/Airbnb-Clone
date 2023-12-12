@@ -9,11 +9,11 @@
 
 <!-- Icones iniciais -->
 <p align="center">
-  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/claudioestevam7/netflix-clone?color=f48915">
+  <img alt="Principal linguagem do projeto" src="https://img.shields.io/github/languages/top/claudioestevam7/Airbnb-Clone?color=f48915">
 
-  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/claudioestevam7/netflix-clone?color=f48915">
+  <img alt="Quantidade de linguagens utilizadas" src="https://img.shields.io/github/languages/count/claudioestevam7/Airbnb-Clone?color=f48915">
 
-  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/claudioestevam7/netflix-clone?color=f48915">
+  <img alt="Tamanho do repositório" src="https://img.shields.io/github/repo-size/claudioestevam7/Airbnb-Clone?color=f48915">
 
   <!-- <img alt="Licença" src="https://img.shields.io/github/license/claudioestevam7/GymProject?color=f48915"> -->
 
@@ -44,12 +44,12 @@
 
 ## :dart: About
 
-Project carried out with the aim of recreating the Netflix website, which features various functions that enhance the user experience and are aesthetically pleasing. The focus was on reproducing exactly the components present on the site. The application connects to an API that provides the catalog and information about movies and series.
+This project was carried out with the aim of reproducing the Airbnb accommodation booking website exactly. This application featured the front-end built with React, HTML, CSS, Tailwind, and the back-end in Node with a database constructed in Mongodb.
 
-The front-end page was created in React, styled with CSS, and marked up in HTML5.
+The Full-Stack page was created in React, styled with CSS, and marked up in HTML5. Database in Mongodb, and back-end in Node.js.
 
 
-Application link [click here](https://clone-netflix-site.netlify.app/)
+Application link [click here](https://site-airbnb-clone.netlify.app/)
 
 
 <img  alt="Principal linguagem do projeto" src="/sitevideo.gif" style="borderRadius=5">
@@ -74,8 +74,10 @@ The following tools were used in the construction of the project:
 - <img alt="node" src="node.png"> &#xa0; [Node.js](https://nodejs.org/en/)
 - <img alt="react" src="react.png"> &#xa0; [React](https://pt-br.reactjs.org/)
 - <img alt="js" src="js.png"> &#xa0; [JavaScript](https://pt-br.reactjs.org/)
-- <img alt="css" src="css.png"> &#xa0; [Css](https://pt-br.reactjs.org/)
-- <img alt="html" src="html.png"> &#xa0; [Html](https://pt-br.reactjs.org/)
+- <img alt="css" src="css.png"> &#xa0; [Css](https://www.w3schools.com/css/)
+- <img alt="html" src="html.png"> &#xa0; [Html](https://www.w3schools.com/html/)
+- <img alt="mongodb" src="database.png"> &#xa0; [MongoDb](https://www.mongodb.com/pt-br)
+- <img alt="api" src="api.png"> &#xa0; [API](https://www.mongodb.com/pt-br)
 
 ## :white_check_mark: Requirements
 
@@ -87,13 +89,13 @@ Before you begin :checkered_flag:, you need to have [Git](https://git-scm.com) a
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/claudioestevam7/netflix-clone
+$ git clone https://github.com/claudioestevam7/Airbnb-Clone
 
 # Install the dependencies
-$ npm install
+$ yarn install
 
 # To start the project
-$ npm start
+$ yarn start
 
 # The app will initialize in <http://localhost:3000>
 ```
